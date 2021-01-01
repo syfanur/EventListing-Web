@@ -1,0 +1,15 @@
+{
+    "name": "eventlisting/event-listing",
+    "description": "Payment Gateway dengan Midtrans",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Syfanur",
+            "email": "j0h@example.com"
+        }
+    ],
+    "require": {
+        "veritrans/veritrans-php": "^1.2"
+    }
+}
